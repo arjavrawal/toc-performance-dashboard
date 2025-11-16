@@ -1,0 +1,19 @@
+# Large data and outputs
+data/
+outputs/
+
+# ArcGIS & scratch junk
+*.gdb
+*.mdb
+*.lock
+*.aux
+*.aux.xml
+*.zip
+*.tif
+*.svm
+*.sde
+
+# Jupyter and temp files
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
