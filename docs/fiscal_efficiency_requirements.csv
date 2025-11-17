@@ -1,0 +1,7 @@
+Metric,Data,Fields,Notes
+Parcel Assessment Data,Assessor’s Office - latest book provided by ASU,"Parcel ID, Land area, Land value, Improvement value",
+Households per acre,ACS 5-Year Estimates,Housing units + tenure,
+Jobs per acre,LEHD LODES,Primary jobs by workplace area,
+Street miles per acre,Street centerline shapefile from City (or MAG?),Total street miles,
+Floor Area Ratio (FAR) (if data available),Assessor’s Office - latest book provided by ASU,Building sq. ft. / parcel land area,
+Boundary shapefiles,"TOC districts, Village Cores, block groups/tracts",Boundary shapefiles for analysis,Need to see if City of Phoenix has these

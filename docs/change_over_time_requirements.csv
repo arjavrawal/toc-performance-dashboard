@@ -1,0 +1,12 @@
+Metric,Data,Fields,Notes
+Population,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Total population over time,
+Households,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Household counts and types over time,
+Households per acre over time,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Households normalized by land area,
+Renter share,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Owner vs. Renter tenure over time,
+Median rent,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Median gross rent over time,
+Median household income,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Median household income over time,
+Jobs-to-housing ratio,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Jobs normalized by household count,
+Jobs per acre over time,"2002, 2010, 2020, 2023 LEHD LODES data",Jobs normalized by land area,
+Mode share over time,"1990, 2000, 2010, 2020 Census + ACS 2015–2019, ACS 2019–2023",Means of transportation to work,
+Stretch goal: Parcel value per acre over time,Assessor’s Office historic books,"Total assessed value / land area, tracked over time","ASU receives very raw data from the assessor's office, so this will be a question of how easy it is to program the data clean for the file. I won't know until I get started, but I certainly would like to try."
+Boundary shapefiles,"TOC districts, Village Cores, block groups/tracts",Boundary shapefiles for temporal analysis,Need to see if City of Phoenix has these
