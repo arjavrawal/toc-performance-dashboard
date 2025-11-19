@@ -17,3 +17,15 @@ outputs/
 .ipynb_checkpoints/
 *.pyc
 __pycache__/
+notebooks/12_parcels_assessor_join.ipynb
+notebooks/20_census_boundary_clean.ipynb
+notebooks/21_acs_attributes_clean.ipynb
+notebooks/22_census_acs_join.ipynb
+notebooks/30_lodes_geometries_clean.ipynb
+notebooks/31_lodes_jobs_aggregate.ipynb
+notebooks/32_jobs_spatial_join.ipynb
+notebooks/40_toc_tod_geometries_clean.ipynb
+notebooks/41_parcels_in_tocs.ipynb
+notebooks/42_jobs_in_tocs.ipynb
+notebooks/43_demographics_by_toc.ipynb
+notebooks/44_toc_summary_tables.ipynb
