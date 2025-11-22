@@ -17,7 +17,6 @@ outputs/
 .ipynb_checkpoints/
 *.pyc
 __pycache__/
-notebooks/12_parcels_assessor_join.ipynb
 notebooks/20_census_boundary_clean.ipynb
 notebooks/21_acs_attributes_clean.ipynb
 notebooks/22_census_acs_join.ipynb
