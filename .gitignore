@@ -16,12 +16,4 @@ data/
 .ipynb_checkpoints/
 *.pyc
 __pycache__/
-notebooks/32_jobs_spatial_join.ipynb
-notebooks/42_jobs_in_tocs.ipynb
 notebooks/43_demographics_by_toc.ipynb
-notebooks/45_toc_fiscal_efficiency_calculations.ipynb
-notebooks/46_parcels_in_villages.ipynb
-notebooks/47_village_geometry_clean.ipynb
-notebooks/48_village_fiscal_efficiency_calculations.ipynb
-notebooks/49_toc_village_benchmark.ipynb
-notebooks/50_initial_landval_maps.ipynb
