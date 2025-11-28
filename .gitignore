@@ -16,4 +16,3 @@ data/
 .ipynb_checkpoints/
 *.pyc
 __pycache__/
-notebooks/43_demographics_by_toc.ipynb
