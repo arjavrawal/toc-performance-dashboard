@@ -1,0 +1,16 @@
+character_area,score_lot_coverage,score_height_bonus,score_density_bonus,score_parking_reduction,score_use_permit_burden,constraint_score,is_constrained,ordinance_section,lot_coverage_base,lot_coverage_bonus,height_bonus_detail,density_bonus_detail,parking_reduction_detail,notes,up_burden_raw_sum,key_uses_restricted_count,key_uses_np_count,use_permit_detail
+East Evergreen,3,3,3,3,1,13.0,True,§1213,50%,None,None,None,None,Historic residential; no bonuses of any kind; zero parking reduction allowed,2,2,0,Assembly General=up/sp; Bar=up/sp
+Commercial Corridors,3,3,3,1,1,11.0,True,§1211,50%,Max 85%,None,None,Max 50%,Both sub-corridors (7th Ave + Central Ave); density bonus=None,1,1,0,Bar=up/sp
+Central Park,3,3,1,1,3,11.0,True,§1210,50%,None,None,Max 50%,Max 50%,Residential scale preservation; all key commercial uses are np,12,6,6,Assembly General=np; Retail Sales=np; Bar=np; Restaurant=np; Hotel/Motel=np; General Office=np
+McDowell Corridor,3,3,1,2,1,10.0,True,§1216,50%,Max 85%,None,Max 50%,Max 25% only,Tightest parking flexibility in the code; 5ft side / 15ft rear setbacks,1,1,0,Bar=up/sp
+Roosevelt North,3,3,0,1,3,10.0,True,§1218,50%,Max 75%,None,Max 100%,Max 50%,Historic SFR district; all key commercial uses are np,12,6,6,Assembly General=np; Retail Sales=np; Bar=np; Restaurant=np; Hotel/Motel=np; General Office=np
+Roosevelt South,3,3,0,1,2,9.0,True,§1219,50%,Max 75%,None,Max 100%,Max 50%,Transitional residential; assembly np; hotel and general office are up,4,4,0,Assembly General=up/sp; Bar=up/sp; Hotel/Motel=up/sp; General Office=up/sp
+Van Buren,2,3,1,0,1,7.0,False,§1221,55%,Max 100%,None,Max 50%,Max 100%,High-rise intent undermined by no height bonus and unusual 55% base coverage; 10ft interior setback,1,1,0,Bar=up/sp
+Evans Churchill East,3,2,1,0,1,7.0,False,§1214,50% (N of Garfield) / 90% (S of Garfield),Max 100%,10% S of Garfield only,Max 50%,Max 100%,Scored conservatively at 50% (N of Garfield); HP buildings present,2,2,0,Assembly General=up/sp; Bar=up/sp
+BioMed,0,3,1,0,1,5.0,False,§1208,No maximum,None,None,Max 50%,Max 100%,Biomedical campus; use matrix open but bar is up,1,1,0,Bar=up/sp
+Business Core,0,2,3,0,0,5.0,False,§1209,No maximum,None,HP conservation easement only (S of Madison),None,Max 100%,Most permissive use matrix; density bonus=None is a real constraint,0,0,0,all permitted by right
+Downtown Gateway,0,2,1,0,1,4.0,False,§1212,100%,None,30% in sub-area only (N of Garfield / S of Roosevelt / E of Central),Max 50%,Max 100%,High-rise transit corridor; most flexible overall,1,1,0,Bar=up/sp
+Townsend Park,1,1,0,0,1,3.0,False,§1220,75%,Max 100%,Max 30%,Max 100%,Max 100%,Mid-rise transition; office/cultural focus; moderate constraints,1,1,0,Bar=up/sp
+Roosevelt East,1,1,0,0,1,3.0,False,§1217,75%,Max 100%,Max 25%,Max 100%,Max 100%,Transition zone; moderate constraints; general office and financial institutions are up,2,2,0,Bar=up/sp; General Office=up/sp
+Evans Churchill West,1,0,0,0,1,2.0,False,§1215,75%,Max 100%,Up to 100ft additional (Pierce–Fillmore sub-area only),Max 100%,Max 100%,Most flexible non-core area; public market / Roosevelt Row zone,1,1,0,Bar=up/sp
+Warehouse,0,0,0,0,0,0.0,False,§1222,100%,None,Max 50% (or 140ft via HP easement N of Lincoln),Max 100%,Max 100% (nonresidential),Most permissive character area; zero constraints across all dimensions,0,0,0,all permitted by right
